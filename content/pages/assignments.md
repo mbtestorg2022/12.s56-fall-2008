@@ -28,4 +28,4 @@ From the measurements made you are to determine:
 (a) Estimates of the radius from the main tripod measurements.  
 (b) Estimates of the radius for each rod measurements. Plot the radius as a function of angle around the center of the circle.
 
-MATLAB file for exercise 3, Proj\_3\_05.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-s56-gps-where-are-you-fall-2008/assignments/Proj_3_05.m))
+MATLAB file for exercise 3, Proj\_3\_05.m ({{% resource_link "fb874178-6b01-31f2-e8e6-a6c87b68cf71" "M" %}})
